@@ -131,4 +131,3 @@ Por meio desta interface (Swagger UI), você poderá realizar testes práticos d
 
 ---
 <p align="center">UFC Campus Quixadá • 2026</p>
-```
